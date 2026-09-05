@@ -11,12 +11,9 @@ Building software, learning systems, and shipping projects.
 
 ## 👨‍💻 About Me
 
-CS student at **Western University (UWO)** interested in full-stack development, backend systems, databases, security, and DevOps. I enjoy learning by building real projects and improving them over time.
+CS student at **Western University (UWO)** interested in full-stack software development. I enjoy learning by building real projects and improving them over time.
 
-<h2>
-  <img src="./cardexa-icon-180.png" width="24" height="24" alt="Cardexa" />
-  <a href="https://cardexa.app">Cardexa.app</a>
-</h2>
+<h2> <img src="./cardexa-icon-180.png" width="24" height="24" alt="Cardexa" /> Currently Building — <a href="https://cardexa.app">Cardexa.app</a> </h2>
 
 A modern **Pokémon TCG collection platform** for browsing cards, tracking collections, discovering variations, and monitoring collection progress.
 
