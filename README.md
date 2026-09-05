@@ -9,9 +9,6 @@ Building software, learning systems, and shipping projects.
 
 </div>
 
-## 👨‍💻 About Me
-
-CS student at **Western University (UWO)** interested in full-stack software development.
 
 <h2> <img src="./cardexa-icon-180.png" width="24" height="24" alt="Cardexa" /> Currently Building — <a href="https://cardexa.app">Cardexa.app</a> </h2>
 
