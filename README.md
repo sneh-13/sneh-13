@@ -10,15 +10,11 @@ Building software, learning systems, and shipping projects.
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a Computer Science student at **Western University (UWO)** interested in full-stack development, backend systems, databases, security, and DevOps.
 
 I enjoy learning by building real projects and improving them over time.
-
----
 
 ## 🃏 Currently Building — [Cardexa.app](https://cardexa.app)
 
@@ -27,16 +23,6 @@ A modern **Pokémon TCG collection platform** for browsing cards, tracking colle
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,supabase,postgres,vercel,git,github" />
 </p>
-
----
-
-```javascript
-const sneh = {
-  education: "Computer Science @ Western University",
-  building: "Cardexa.app",
-  goal: "Build cool things and become a better engineer."
-};
-```
 
 <div align="center">
 
