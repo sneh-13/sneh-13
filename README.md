@@ -16,7 +16,10 @@ I'm a Computer Science student at **Western University (UWO)** interested in ful
 
 I enjoy learning by building real projects and improving them over time.
 
-## 🃏 Currently Building — [Cardexa.app](https://cardexa.app)
+<h2>
+  <img src="./cardexa-icon-180.png" width="26" height="26" alt="Cardexa" />
+  Currently Building — <a href="https://cardexa.app">Cardexa.app</a>
+</h2>
 
 A modern **Pokémon TCG collection platform** for browsing cards, tracking collections, discovering variations, and monitoring collection progress.
 
